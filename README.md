@@ -4,7 +4,7 @@
 
 - 🔥 Student of Systems Development Analysis and Front-End Developer 
 
-- 🔭 I’m currently looking for work (Internship or Entry-level)
+- 🔭 I’m currently looking for work (Internship Entry-level)
 
 - ▶️ Here i will upload my stuff and projects :)
 
