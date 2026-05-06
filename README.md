@@ -79,10 +79,13 @@ Passionate about cybersecurity, infrastructure, networking, authentication syste
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealuiiz&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealuiiz&layout=compact&theme=tokyonight" height="165">
-</p>
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=therealuiiz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=therealuiiz&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
 
 ---
 
